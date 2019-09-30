@@ -12,8 +12,8 @@ var songsArray = [{
 },
 {
     "id": "103",
-    "name": "Galti.mp3",
-    "imageUrl": "https://www.pagalworld.io/GpE34Kg9Gq/8235/thumb-new-collection-3-300.jpg",
+    "name": "Galti",
+    "imageUrl": "https://i.ytimg.com/vi/0IDpG1SBmeU/hqdefault.jpg",
     "songUrl": "songs/galti.mp3",
 },
 {
@@ -72,8 +72,8 @@ var songsArray = [{
 },
 {
     "id": "113",
-    "name": "Galti.mp3",
-    "imageUrl": "https://www.pagalworld.io/GpE34Kg9Gq/8235/thumb-new-collection-3-300.jpg",
+    "name": "Galti",
+    "imageUrl": "https://i.ytimg.com/vi/0IDpG1SBmeU/hqdefault.jpg",
     "songUrl": "songs/galti.mp3",
 },
 {
