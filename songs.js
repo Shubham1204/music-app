@@ -19,7 +19,7 @@ var songsArray = [{
 {
     "id": "104",
     "name": "Na Na",
-    "imageUrl": "https://www.androidmobilezone.com/protected/uploads/media/cover/Na-Na-Na-song-poster-Karan-Aujla.jpg",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTquCi09isJ2FanuHA6GKvRj7_dswUGhgtIgw&usqp=CAU",
     "songUrl": "songs/nana.mp3",
 },
 {
