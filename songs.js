@@ -19,7 +19,7 @@ var songsArray = [{
 {
     "id": "104",
     "name": "Na Na",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTquCi09isJ2FanuHA6GKvRj7_dswUGhgtIgw&usqp=CAU",
+    "imageUrl": "https://c.saavncdn.com/545/Na-Na-Na-English-2018-20181227064902-500x500.jpg",
     "songUrl": "songs/nana.mp3",
 },
 {
@@ -49,7 +49,7 @@ var songsArray = [{
 {
     "id": "109",
     "name": "Na Na",
-    "imageUrl": "https://www.androidmobilezone.com/protected/uploads/media/cover/Na-Na-Na-song-poster-Karan-Aujla.jpg",
+    "imageUrl": "https://c.saavncdn.com/545/Na-Na-Na-English-2018-20181227064902-500x500.jpg",
     "songUrl": "songs/nana.mp3",
 },
 {
@@ -79,7 +79,7 @@ var songsArray = [{
 {
     "id": "114",
     "name": "Na Na",
-    "imageUrl": "https://www.androidmobilezone.com/protected/uploads/media/cover/Na-Na-Na-song-poster-Karan-Aujla.jpg",
+    "imageUrl": "https://c.saavncdn.com/545/Na-Na-Na-English-2018-20181227064902-500x500.jpg",
     "songUrl": "songs/nana.mp3",
 },
 {
